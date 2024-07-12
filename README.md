@@ -1,7 +1,3 @@
-Certainly! Here's a detailed description that you can directly copy and paste into your README.md file for the MetaGenoScope tool:
-
----
-
 # MetaGenoScope
 
 MetaGenoScope is a versatile command-line tool designed for metagenomics analysis, specifically tailored for processing and interpreting data from high-throughput sequencing of microbial communities. This tool integrates various bioinformatics algorithms and offers functionalities for processing raw sequencing data, performing taxonomic profiling, and annotating functional elements within metagenomic samples.
